@@ -1,8 +1,9 @@
 {
-  "name": "Creality CFS Card",
+  "name": "Creality Card",
   "render_readme": false,
-  "filename": "cfs-card.js"
+  "filename": "creality-card.js"
 } 
+
 
 
 
