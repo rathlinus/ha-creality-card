@@ -948,7 +948,7 @@
       type: "creality-printer-card",
       name: "Creality Printer Card",
       description:
-        "Creality 3D Printer Card with visual editor, customizable sections, and live webcam.",
+        "Creality Printer Card with visual editor, customizable sections, and live webcam.",
     });
   }
 })();
